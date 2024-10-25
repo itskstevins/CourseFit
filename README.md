@@ -6,16 +6,16 @@ CourseFit is designed to streamline the process of checking university course qu
 
 ## Features:
 
-1.PDF Data Extraction: Automatically extracts course tables from PDF files. \n
-2.Data Conversion: Converts extracted data to JSON format for easier handling and storage.
-3.Cluster Point Calculation: Calculates KUCCPS cluster points based on user-provided grades.
-4.Course Matching: Outputs a list of qualified courses and respective universities.
+1. PDF Data Extraction: Automatically extracts course tables from PDF files. 
+2. Data Conversion: Converts extracted data to JSON format for easier handling and storage.
+3. luster Point Calculation: Calculates KUCCPS cluster points based on user-provided grades.
+4. Course Matching: Outputs a list of qualified courses and respective universities.
 
 ## Technologies:
 
-Python (for core functionality)
-pdfplumber (for PDF table extraction)
-JSON (for structured data storage and manipulation)
+1. Python
+2. pdfplumber 
+3. JSON 
 
 ## Usage:
 
