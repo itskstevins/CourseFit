@@ -10,7 +10,7 @@ def extract_tables_from_pdf(filename):
     try:
         with pdfplumber.open(filename) as pdf:
             for page in pdf.pages:
-                # Extract table assuming tables with borders
+
                 table = page.extract_table()
                 if table:
                     tables.append(table)
